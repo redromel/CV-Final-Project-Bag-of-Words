@@ -9,5 +9,6 @@ How to Use:
  3. Enter path to input image when prompted
  4. emotionGuess.py will return the predicted emotion of the image.  
 
+Alternatively if you have conda an 'environments.yml' file is provided (note, I was not able to test this with conda)
 	 
 *Note: The training dataset was not included in the repository because it was too big and had too many files, link to the dataset can be found [here](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge)*  
